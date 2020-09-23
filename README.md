@@ -26,8 +26,7 @@
 
 :books: Estudando atualmente: HTML5, CSS3, JS, C#
 
-:heart: Apaixonada por programação
-  :star: Desenvolvimento web, mobile, desktop, games, I.A.
+:heart: Desenvolvimento web, mobile, desktop, games, I.A.
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolagarb)](https://github.com/paolagarb/github-readme-stats) 
