@@ -22,7 +22,7 @@
 
 :construction: Em busca constante de conhecimento
 
-:books: Estudando atualmente: HTML5, CSS3, JS, C#
+:books: HTML5, CSS3, JS, .NET, C#
 
 :heart: Desenvolvimento web, mobile, desktop, games
 
