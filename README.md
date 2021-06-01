@@ -18,7 +18,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> <img 
 -->
 
-:computer: Sou estudante de Análise e Desenvolvimento de Sistemas 
+:computer: Análise e Desenvolvimento de Sistemas 
 
 :construction: Em busca constante de conhecimento
 
