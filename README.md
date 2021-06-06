@@ -28,7 +28,7 @@
 
 :hourglass: Futuramente: I.A.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolagarb)](https://github.com/paolagarb/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolagarb&theme=omni)](https://github.com/paolagarb/github-readme-stats) 
 
 <br />
 
