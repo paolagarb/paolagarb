@@ -26,7 +26,7 @@
 
 :heart: Desenvolvimento web, mobile, desktop, games
 
-:hourglass: Futuramente: I.A.
+:hourglass: I.A.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolagarb&theme=omni)](https://github.com/paolagarb/github-readme-stats) 
 
